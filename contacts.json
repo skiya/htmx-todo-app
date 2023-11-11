@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "fullname": "Benton Figueroa",
+      "email": "bentonfigueroa@firewax.com",
+      "tel": "+1 (965) 552-3179"
+    },
+    {
+      "id": 2,
+      "fullname": "Mason Washington",
+      "email": "masonwashington@firewax.com",
+      "tel": "+1 (907) 460-3159"
+    },
+    {
+      "id": 3,
+      "fullname": "Hester Mullen",
+      "email": "hestermullen@firewax.com",
+      "tel": "+1 (812) 487-3204"
+    },
+    {
+      "id": 4,
+      "fullname": "Glenna Burks",
+      "email": "glennaburks@firewax.com",
+      "tel": "+1 (852) 429-3912"
+    },
+    {
+      "id": 5,
+      "fullname": "Marta Pate",
+      "email": "martapate@firewax.com",
+      "tel": "+1 (888) 558-3023"
+    }
+  ]
